@@ -1,0 +1,30 @@
+[33mcommit 7552197ab01a3f34e29c6148155d789c513d757b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 192f81f 2aeb64a
+Author: langlangz <470487197@qq.com>
+Date:   Mon Aug 2 10:27:12 2021 +0800
+
+    my commit
+
+[33mcommit 192f81f4f3ef03b108c58e90b7f2a82f77aa9086[m
+Author: langlangz <470487197@qq.com>
+Date:   Mon Aug 2 10:24:20 2021 +0800
+
+    my commit
+
+[33mcommit 2aeb64af36e26accea417a9387de1e43cfabbc65[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: langlangz <470487197@qq.com>
+Date:   Mon Aug 2 10:21:52 2021 +0800
+
+    other commit
+
+[33mcommit 8beb824c92f5e36797a2bdd49afadd27dfca940f[m
+Author: langlangz <470487197@qq.com>
+Date:   Mon Aug 2 10:10:24 2021 +0800
+
+    first.txt
+
+[33mcommit 4e07b358c899f7f605e471a2e1ea6b721bf92d34[m
+Author: langlangz <66464756+langlangz@users.noreply.github.com>
+Date:   Sun Aug 1 16:07:22 2021 +0800
+
+    Initial commit
